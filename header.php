@@ -5,7 +5,7 @@
 
 <!-- Mirrored from nunforest.com/moving/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 09 Feb 2019 22:33:13 GMT -->
 <head>
-	<title>Air Pets | Home | A nicer way to move.</title>
+	<title>Air Pets | Home | A nicer way to move your pets.</title>
 
 	<meta charset="utf-8">
 
@@ -72,7 +72,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""></a>
+						<a class="navbar-brand" href="index.php"><img src="images/logo1.png" height="80" alt=""></a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
