@@ -31,12 +31,12 @@ $mail->Password = "cornellekacy456";
     //and will cause your messages to fail SPF checks
     $mail->setFrom('from@example.com', 'First Last');
     //Send the message to yourself, or whoever should receive contact for submissions
-    $mail->addAddress('cornellekacy4@gmail.com', 'Contact');
+    $mail->addAddress('contact@petflyrelocation.com', 'Contact');
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
     if ($mail->addReplyTo($_POST['email'], $_POST['name'])) {
-        $mail->Subject = 'Transpo Logistics';
+        $mail->Subject = 'Petfly Relocation';
         //Keep it simple - don't use HTML
         $mail->isHTML(false);
         //Build a simple message body
@@ -94,18 +94,18 @@ EOT;
 								<p>we are always happy to help, just fill the form bellow and we will get back to you in less than no time</p>
 								<div class="row">
 									<div class="col-sm-6">
-										<input name="name" id="first-name" type="text" placeholder="Name*">
+										<input name="name" type="text" placeholder="Name*" required="">
 									</div>
 									<div class="col-sm-6">
-										<input name="email" id="last-name" type="text" placeholder="Email*">
+										<input name="email" type="text" placeholder="Email*" required="">
 									</div>
 								</div>
-								<input name="subject" id="mail" type="text" placeholder="Subject*">		
-								<textarea name="comment" id="comment" placeholder="Message*"></textarea>
+								<input name="subject" type="text" placeholder="Subject*" required="">		
+								<textarea name="comment" placeholder="Message*"></textarea>
 								<p>
 									<span class="call">call us: +1 (720) 791-9099</span>
 									<span class="call">Email: contact@petflyrelocation.com</span> or <br>
-									<input type="submit" id="submit_contact" value="Send us a message">
+									<input type="submit"  value="Send us a message">
 								</p>
 								
 								<div id="msg" class="message alert">
