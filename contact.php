@@ -85,7 +85,10 @@ EOT;
 
 				<div class="contact-box">
 					<div class="row">
-						<div class="col-md-6">
+								<div class="col-md-2">
+						
+						</div>
+						<div class="col-md-8">
 							<form id="contact-form" method="post">
 								<h2>We’re Ready to Help!</h2>
 								<p>we are always happy to help, just fill the form bellow and we will get back to you in less than no time</p>
@@ -100,8 +103,8 @@ EOT;
 								<input name="subject" id="mail" type="text" placeholder="Subject*">		
 								<textarea name="comment" id="comment" placeholder="Message*"></textarea>
 								<p>
-									<span class="call">call us: 1234-567-484</span> or 
-									<input type="submit" id="submit_contact" value="Book Consultation">
+									<span class="call">call us: +1 (720) 791-9099</span> or 
+									<input type="submit" id="submit_contact" value="Send us a message">
 								</p>
 								
 								<div id="msg" class="message alert">
@@ -109,9 +112,8 @@ EOT;
 								</div>
 							</form>
 						</div>
-						<div class="col-md-6">
-							<h2>Our Location</h2>
-							<div id="map"></div>
+						<div class="col-md-2">
+					
 						</div>
 					</div>
 				</div>

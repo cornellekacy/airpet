@@ -5,9 +5,10 @@
 
 <!-- Mirrored from nunforest.com/moving/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 09 Feb 2019 22:33:13 GMT -->
 <head>
-	<title>Air Pets | Home | A nicer way to move your pets.</title>
+	<title>Petfly Relocation | Home | A nicer way to move your pets.</title>
 
 	<meta charset="utf-8">
+	<link rel="icon" type="image/png" sizes="16x16" href="images/fav.png">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -39,8 +40,8 @@
 								<ul class="info-list">
 									<li>
 										<i class="fa fa-phone"></i>
-										Air Pets ? Let's Talk : 
-										<span>1234-567-484</span>
+										Petfly ? Let's Talk : 
+										<span>+1 (720) 791-9099</span>
 									</li>
 									<li>
 										<i class="fa fa-clock-o"></i>
@@ -72,7 +73,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.php"><img src="images/logo1.png" height="80" alt=""></a>
+						<a class="navbar-brand" href="index.php"><img src="images/logo1.png" height="60" alt=""></a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
