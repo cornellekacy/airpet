@@ -103,7 +103,8 @@ EOT;
 								<input name="subject" id="mail" type="text" placeholder="Subject*">		
 								<textarea name="comment" id="comment" placeholder="Message*"></textarea>
 								<p>
-									<span class="call">call us: +1 (720) 791-9099</span> or 
+									<span class="call">call us: +1 (720) 791-9099</span>
+									<span class="call">Email: contact@petflyrelocation.com</span> or <br>
 									<input type="submit" id="submit_contact" value="Send us a message">
 								</p>
 								

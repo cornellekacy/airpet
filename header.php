@@ -45,8 +45,8 @@
 									</li>
 									<li>
 										<i class="fa fa-clock-o"></i>
-										Mon - Fri :
-										<span> 09:00 - 19:00</span>
+										Email :
+										<span>contact@petflyrelocation.com</span>
 									</li>
 									<a href="Admin/index.php"><li>
 										<i class="fa fa-user"></i>
