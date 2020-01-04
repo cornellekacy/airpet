@@ -1,15 +1,16 @@
     <?php
-    ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-/**
- * This example shows how to handle a simple contact form.
- */
-
-//Import PHPMailer classes into the global namespace
+// Import PHPMailer classes into the global namespace
+// These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
-$msg = '';
-//Don't run this unless we're handling a form submission
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+// Load Composer's autoloader
+require 'autoload.php';
+
+// Instantiation and passing `true` enables exceptions
+$mail = new PHPMailer(true);
+
 if (array_key_exists('email', $_POST)) {
     date_default_timezone_set('Etc/UTC');
     require 'autoload.php';
@@ -18,19 +19,20 @@ if (array_key_exists('email', $_POST)) {
     //Tell PHPMailer to use SMTP - requires a local mail server
     //Faster and safer than using mail()
     $mail->isSMTP();
+     // $mail->SMTPDebug = SMTP::DEBUG_SERVER; 
 $mail->SMTPSecure = 'tls';
-$mail->Host = 'smtp.gmail.com';
+$mail->Host = 'smtp.yandex.com';
 $mail->Port = 587;
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = "cornellekacy4@gmail.com";
+$mail->Username = "contact@petflyrelocation.com";
 //Password to use for SMTP authentication
-$mail->Password = "cornellekacy456";
+$mail->Password = "petflyrelocation45";
     //Use a fixed address in your own domain as the from address
     //**DO NOT** use the submitter's address here as it will be forgery
     //and will cause your messages to fail SPF checks
-    $mail->setFrom('from@example.com', 'First Last');
+    $mail->setFrom('contact@petflyrelocation.com', $_POST['name']);
     //Send the message to yourself, or whoever should receive contact for submissions
     $mail->addAddress('contact@petflyrelocation.com', 'Contact');
     //Put the submitter's address in a reply-to header
@@ -60,4 +62,5 @@ EOT;
         $msg = 'Invalid email address, message ignored.';
     }
 }
+
 ?>
