@@ -163,7 +163,10 @@
 										</table>
 									</div><br>
 								</div>
-
+							</div>
+							<div class="row">
+								
+							
 								<div class="col-md-6">
 									<h3 align="center">SHIPMENT DETAILS</h3><br>
 									<div class="table-responsive">
@@ -280,6 +283,8 @@
 												</table>
 											</div><br>
 										</div>
+										</div>
+
 
 										<!-- <body > -->
 											<br><br>
@@ -297,7 +302,7 @@
 							?>
 
 
-						</div> 
+					
 					</div> 
 
 
