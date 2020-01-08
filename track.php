@@ -22,16 +22,14 @@
 						<div class="row">
 
 							<div class="col-sm-12">
-								<input name="term" id="last-name" required="" type="text" placeholder="Enter Your Tracking Number">
+								<input name="term" required="" type="text" placeholder="Enter Your Tracking Number">
 							</div>
 						</div>
 
 						<p align="center">
 
-							<input type="submit" name="save" id="submit_contact" value="Track Package">
+							<input type="submit" name="save" value="Track Package">
 						</p>
-
-						<div id="msg" class="message alert">
 
 						</div>
 					</form>
