@@ -22,7 +22,7 @@
 						<div class="row">
 
 							<div class="col-sm-12">
-								<input name="term" id="last-name" type="text" placeholder="Enter Your Tracking Number">
+								<input name="term" id="last-name" required="" type="text" placeholder="Enter Your Tracking Number">
 							</div>
 						</div>
 

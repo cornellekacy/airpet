@@ -42,7 +42,14 @@ mysqli_close($link);
 ?>
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
-$msg = '';
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+// Load Composer's autoloader
+require 'autoload.php';
+
+// Instantiation and passing `true` enables exceptions
+$mail = new PHPMailer(true);
 //Don't run this unless we're handling a form submission
 if (array_key_exists('email', $_POST)) {
     date_default_timezone_set('Etc/UTC');
@@ -80,7 +87,7 @@ sender name: {$_POST['name']}
 receiver's name: {$_POST['jname']}
 receiver's name: {$_POST['email']}
 Tracking Number: {$_POST['tracking']}
-Message: 'HELLO {$_POST['jname']}, IF YOU ARE RECEIVING THIS MASSAGE, IT MEANS A SHIPMENT WAS SUCCESSFULY PLACES IN OUR AGENCY USING YOUR DETAILS. COPY THE TRACKING NUMBER ABOVE AND GO TO logisticsproshipping.com/tracking.php TO TRACK YOUR SHIPMENT'
+Message: 'HELLO {$_POST['jname']}, IF YOU ARE RECEIVING THIS MASSAGE, IT MEANS A SHIPMENT WAS SUCCESSFULY PLACES IN OUR AGENCY USING YOUR DETAILS. COPY THE TRACKING NUMBER ABOVE AND GO TO http://petflyrelocation.com/track.php TO TRACK YOUR SHIPMENT'
 EOT;
         //Send the message, check for errors
         if (!$mail->send()) {
