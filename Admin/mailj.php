@@ -68,7 +68,7 @@ $mail->Password = "petflyrelocation45";
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
-    if ($mail->addReplyTo($_POST['email'], $_POST['name'])) {
+    if ($mail->addReplyTo($_POST['email'], 'Petfly Relocation')) {
         $mail->Subject = 'Petfly Relocation';
         //Keep it simple - don't use HTML
         $mail->isHTML(false);
