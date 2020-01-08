@@ -58,6 +58,7 @@ if (array_key_exists('email', $_POST)) {
     $mail = new PHPMailer;
     //Tell PHPMailer to use SMTP - requires a local mail server
     //Faster and safer than using mail()
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER; 
 $mail->SMTPSecure = 'tls';
 $mail->Host = 'smtp.yandex.com';
 $mail->Port = 587;
@@ -72,7 +73,7 @@ $mail->Password = "petflyrelocation45";
     //and will cause your messages to fail SPF checks
     $mail->setFrom('contact@petflyrelocation.com', 'Air Pets Transport And Logistics');
     //Send the message to yourself, or whoever should receive contact for submissions
-    $mail->addAddress($_POST['email'], 'John Doe');
+    $mail->addAddress($_POST['email'], $_POST['name']);
     //Put the submitter's address in a reply-to header
     //This will fail if the address provided is invalid,
     //in which case we should ignore the whole request
