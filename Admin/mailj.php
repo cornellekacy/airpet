@@ -40,6 +40,13 @@ require 'autoload.php';
 
 // Instantiation and passing `true` enables exceptions
 $mail = new PHPMailer(true);
+ $mail->SMTPOptions = array(
+        'ssl' => array(
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+            'allow_self_signed' => true
+        )
+    );
 
 if (array_key_exists('email', $_POST)) {
     date_default_timezone_set('Etc/UTC');
