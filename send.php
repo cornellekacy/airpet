@@ -16,10 +16,17 @@ if (array_key_exists('email', $_POST)) {
     require 'autoload.php';
     //Create a new PHPMailer instance
     $mail = new PHPMailer;
+ $mail->SMTPOptions = array(
+        'ssl' => array(
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+            'allow_self_signed' => true
+        )
+    );
     //Tell PHPMailer to use SMTP - requires a local mail server
     //Faster and safer than using mail()
     $mail->isSMTP();
-     // $mail->SMTPDebug = SMTP::DEBUG_SERVER; 
+      //$mail->SMTPDebug = SMTP::DEBUG_SERVER; 
 $mail->SMTPSecure = 'tls';
 $mail->Host = 'smtp.yandex.com';
 $mail->Port = 587;
@@ -28,7 +35,7 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
 $mail->Username = "contact@petflyrelocation.com";
 //Password to use for SMTP authentication
-$mail->Password = "petflyrelocation45";
+$mail->Password = "Petflyrelocation";
     //Use a fixed address in your own domain as the from address
     //**DO NOT** use the submitter's address here as it will be forgery
     //and will cause your messages to fail SPF checks
