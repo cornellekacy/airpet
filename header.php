@@ -41,7 +41,7 @@
 									<li>
 										<i class="fa fa-phone"></i>
 										Petfly ? Let's Talk : 
-										<span>+1 (720) 791-9099</span>
+										<span>+1 (702) 814-4168</span>
 									</li>
 									<li>
 										<i class="fa fa-clock-o"></i>

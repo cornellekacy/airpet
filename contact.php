@@ -44,7 +44,7 @@
 								<input name="subject" type="text" placeholder="Subject*" required="">		
 								<textarea name="message" placeholder="Message*"></textarea>
 								<p>
-									<span class="call">call us: +1 (720) 791-9099</span>
+									<span class="call">call us: +1 (702) 814-4168</span>
 									<span class="call">Email: contact@petflyrelocation.com</span> or <br>
 									<input type="submit"  value="Send us a message">
 								</p>
