@@ -17,7 +17,7 @@
     <div class="item active">
       <img src="bg2.jpg" alt="Chania">
       <div class="carousel-caption">
-        <h1 style="color: #fff">Air Pets Logistics</h1>
+        <h1 style="color: #fff">Prime Global Logistics</h1>
         <p style="color: #337ab7;font-size: 30px; margin-top: 10px">Shipping worldwide and offering the best service to is clients</p>
       </div>
     </div>
@@ -48,7 +48,7 @@
 				<div class="quote-box">
 					<span aria-hidden="true" class="lnr lnr-database"></span>
 					<h1>Let us move you to your new life.</h1>
-					<p>At Air Pets, we think that moving day should be a celebration.</p>
+					<p>At Prime Global Logistics, we think that moving day should be a celebration.</p>
 					<form class="quote-form">
 						<input type="text" name="date" id="date" placeholder="Moving date*" />
 						<input type="text" name="move-from" id="move-from" placeholder="Moving From*" />
@@ -67,7 +67,7 @@
 			<div class="container">
 				<div class="title-section">
 					<h1>Air Pets Services</h1>
-					<p>At Airpet Logistics, we offer the following service to our customers and general public.</p>
+					<p>At Prime Global Logistics, we offer the following service to our customers and general public.</p>
 				</div>
 				<div class="moving-services-box">
 					<div class="row">
@@ -76,7 +76,7 @@
 								<div class="inner-post">
 									<span class="lnr lnr-home"></span>
 									<h2>Air Freight</h2>
-									<p>As a leader in global air freight forwarding, Cornike Transport and Logistics excels in providing tailored transportation, provides quality customer services and give unmetered customer satisfaction</p>
+									<p>As a leader in global air freight forwarding, Prime Global Logistics excels in providing tailored transportation, provides quality customer services and give unmetered customer satisfaction</p>
 									<a href="#">Read More</a>
 								</div>
 						
@@ -87,7 +87,7 @@
 								<div class="inner-post">
 									<span class="lnr lnr-bus"></span>
 									<h2>Ocean Freight</h2>
-									<p>With hundred of vessel at our disporsal, Cornike Transport and Logistics provides the best the ocean freight service. we are very fast and reliable and we always keep our clients up to date</p>
+									<p>With hundred of vessel at our disporsal, Prime Global Logistics provides the best the ocean freight service. we are very fast and reliable and we always keep our clients up to date</p>
 									<a href="#">Read More</a>
 								</div>
 						
@@ -100,7 +100,7 @@
 								<div class="inner-post">
 									<span class="lnr lnr-layers"></span>
 									<h2>Warehousing</h2>
-									<p>Air Pets Transport and logistics services provide warehousing facilities to its clients at very reasonable prices. At cornike transport and logistics, we make sure your goods are in the right place for preservation.</p>
+									<p>Prime Global Logistics services provide warehousing facilities to its clients at very reasonable prices. At cornike transport and logistics, we make sure your goods are in the right place for preservation.</p>
 									<a href="#">Read More</a>
 								</div>
 					
@@ -131,7 +131,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="sect-title">
-								<h1>Air Pet Remarkable Services</h1>
+								<h1>Prime Global Logistics Remarkable Services</h1>
 								
 							</div>
 							<div class="row">
@@ -180,7 +180,7 @@
 						<div class="col-md-6">
 							<div class="removal-image">
 								<img src="upload/others/sv.jpg" alt="">
-								<p><span>call us: 1234-567-484</span> or <a class="book-button" href="#">book consultation</a></p>
+								<p><span>call us: +1 470 333-8706</span> or <a class="book-button" href="#">book consultation</a></p>
 							</div>
 						</div>
 					</div>

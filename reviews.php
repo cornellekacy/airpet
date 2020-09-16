@@ -26,8 +26,8 @@
 						</div>
 						<div class="col-sm-6">
 							<div class="reviews-article">
-								<h1>Simple…Airpets makes package moving very easy!</h1>
-								<p>We move packages round the world and also do  house delivery. we do not move only pets but also we move other packages. transporting your pet with Airpets has never been this easy and stress free</p>
+								<h1>Simple…Prime Global Logistics makes package moving very easy!</h1>
+								<p>We move packages round the world and also do  house delivery. we do not move only pets but also we move other packages. transporting your pet with Prime Global Logistics has never been this easy and stress free</p>
 								<p><a href="contact.php">Contact us to learn more about our various moving services and to request a free moving quote.</a></p>
 							</div>
 						</div>
@@ -68,7 +68,7 @@
 								<span class="img-holder"></span>
 								<div class="testimonial-text">
 								
-									<p>Airpet help desk helped us navigate the challenges we faced and got our goods cleared in a week’s time –pretty incredible given the situation. We just wanted to make you aware of all the help that Airpet gave us on this – we really appreciate your help in supporting our business!</p>
+									<p>Prime Global Logistics help desk helped us navigate the challenges we faced and got our goods cleared in a week’s time –pretty incredible given the situation. We just wanted to make you aware of all the help that Prime Global Logistics gave us on this – we really appreciate your help in supporting our business!</p>
 									<h3>Darie H.</h3>
 									<span>Greensboro, NC</span>
 								</div>	
@@ -80,7 +80,7 @@
 								<img src="images/av.png" alt="">
 								<div class="testimonial-text">
 									
-									<p>As a long-time business partner of Airpet Logistics Agency, Inc. I have always appreciated the quick response and professional manner with which Airpet Logistics services our account. Airpet Logistics has assembled a team of can-do associates who deliver first-time-quality at high velocity day after day.</p>
+									<p>As a long-time business partner of Prime Global Logistics Agency, Inc. I have always appreciated the quick response and professional manner with which Prime Global Logistics services our account. Prime Global Logistics has assembled a team of can-do associates who deliver first-time-quality at high velocity day after day.</p>
 									<h3>Lidia Donahue</h3>
 									<span>Charlotte, NC</span>
 								</div>	
@@ -96,7 +96,7 @@
 								<span class="img-holder"></span>
 								<div class="testimonial-text">
 								
-									<p>Airpet Logistics has proven to be very flexible in meeting our planning and shipping needs and continues to be a major contributor to the success of our export operations. No opportunity has been too great and I never hesitate contacting Airpet Logistics when a problem or challenge is presented. Personalized and reliable service, long term relationship.</p>
+									<p>Prime Global Logistics has proven to be very flexible in meeting our planning and shipping needs and continues to be a major contributor to the success of our export operations. No opportunity has been too great and I never hesitate contacting Prime Global Logistics when a problem or challenge is presented. Personalized and reliable service, long term relationship.</p>
 									<h3>Jean Smith</h3>
 									<span>Greensboro, NC</span>
 								</div>	
@@ -108,7 +108,7 @@
 								<img src="images/av.png" alt="">
 								<div class="testimonial-text">
 									
-									<p>Over the many years we have worked together, Airpet Logistics has consistently delivered outstanding support and service. Our contacts at Airpet Logistics genuinely care about their customers and are willing to go the extra mile to provide prompt, courteous and reliable support. They have exceeded our expectations with their high level of professionalism, responsiveness and dedication.</p>
+									<p>Over the many years we have worked together, Prime Global Logistics has consistently delivered outstanding support and service. Our contacts at Prime Global Logistics genuinely care about their customers and are willing to go the extra mile to provide prompt, courteous and reliable support. They have exceeded our expectations with their high level of professionalism, responsiveness and dedication.</p>
 									<h3>Larry Ben</h3>
 									<span>Greensboro, NC</span>
 								</div>	
@@ -120,7 +120,7 @@
 								<span class="img-holder"></span>
 								<div class="testimonial-text">
 								
-									<p>Airpet Logistics are also our ‘go-to’ for challenging freight opportunities and are an amazing resource for problem solving and providing alternative freight solutions. Airpet Logistics always delivers. Sincere thanks to our friends at Airpet Logistics.</p>
+									<p>Prime Global Logistics are also our ‘go-to’ for challenging freight opportunities and are an amazing resource for problem solving and providing alternative freight solutions. Prime Global Logistics always delivers. Sincere thanks to our friends at Prime Global Logistics.</p>
 									<h3>Rob Smith</h3>
 									<span>Charlotte, NC</span>
 								</div>	

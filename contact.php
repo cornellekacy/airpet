@@ -44,8 +44,8 @@
 								<input name="subject" type="text" placeholder="Subject*" required="">		
 								<textarea name="message" placeholder="Message*"></textarea>
 								<p>
-									<span class="call">call us: +1 (702) 814-4168</span>
-									<span class="call">Email: contact@petflyrelocation.com</span> or <br>
+									<span class="call">call us: +1 470 333-8706</span>
+									<span class="call">Email: contact@primegloballogistics.net</span> or <br>
 									<input type="submit"  value="Send us a message">
 								</p>
 								
@@ -59,6 +59,5 @@
 				</div>
 
 			</div>
-
 		</section>
 		<?php include 'footer.php'; ?>

@@ -20,8 +20,8 @@
 			<div class="container">
 
 				<div class="title-section">
-					<h1>Airpet services.</h1>
-					<p>At Airpet Logistics, we offer the following service to our customers and general public. </p>
+					<h1>Prime Global Logistics.</h1>
+					<p>At Prime Global Logistics, we offer the following service to our customers and general public. </p>
 				</div>
 
 				<div class="services-box">
@@ -32,7 +32,7 @@
 								<span class="lnr lnr-home"></span>
 								<div class="services-post-content">
 									<h2>Air Freight</h2>
-									<p><span>Air pets with its large resources provides the best services when it comes to air freight</span></p>
+									<p><span>Prime Global Logistics with its large resources provides the best services when it comes to air freight</span></p>
 									<p>As a leader in global air freight forwarding, Cornike Transport and Logistics excels in providing tailored transportation, provides quality customer services and give unmetered customer satisfaction</p>
 									<ul class="services-list">
 										<li><span>Safely tarnsport your packages with us.</span></li>
@@ -70,7 +70,7 @@
 								<div class="services-post-content">
 									<h2>Warehousing</h2>
 									<p><span>We provide the best quality and air free space for you goods till you are ready to pick it up.</span></p>
-									<p>Air Pets Transport and logistics services provide warehousing facilities to its clients at very reasonable prices. At cornike transport and logistics, we make sure your goods are in the right place for preservation.</p>
+									<p>Prime Global Logistics Transport and logistics services provide warehousing facilities to its clients at very reasonable prices. At cornike transport and logistics, we make sure your goods are in the right place for preservation.</p>
 									<ul class="services-list">
 										<li><span>Wide warehousing space for any type of goods</span></li>
 										<li><span>free for our clients</span></li>

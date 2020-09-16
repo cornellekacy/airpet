@@ -5,10 +5,10 @@
 
 <!-- Mirrored from nunforest.com/moving/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 09 Feb 2019 22:33:13 GMT -->
 <head>
-	<title>Petfly Relocation | Home | A nicer way to move your pets.</title>
+	<title>Prime Global Logistics | Home | A nicer way to move your pets.</title>
 
 	<meta charset="utf-8">
-	<link rel="icon" type="image/png" sizes="16x16" href="images/fav.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="airfav.png">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -40,13 +40,13 @@
 								<ul class="info-list">
 									<li>
 										<i class="fa fa-phone"></i>
-										Petfly ? Let's Talk : 
-										<span>+1 (702) 814-4168</span>
+										Prime Global Logistics ? Let's Talk : 
+										<span>+1 470 333-8706</span>
 									</li>
 									<li>
 										<i class="fa fa-clock-o"></i>
 										Email :
-										<span>contact@petflyrelocation.com</span>
+										<span>contact@primegloballogistics.net</span>
 									</li>
 									<a href="Admin/index.php"><li>
 										<i class="fa fa-user"></i>
@@ -73,7 +73,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.php"><img src="images/logo1.png" height="60" alt=""></a>
+						<a class="navbar-brand" href="index.php"><img src="airlogo.png" height="60" alt=""></a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
